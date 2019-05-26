@@ -13,6 +13,11 @@ class ChattyStudent < Student
     super
     super
     super
+    super
+    super
+    super
+    super
+    super
     puts "Pick me!"
   end
   
